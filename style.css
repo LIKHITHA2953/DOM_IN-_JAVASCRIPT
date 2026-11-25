@@ -1,0 +1,38 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: #ffffff;
+}
+
+h1 {
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+article {
+    border: 1px solid #cccccc;
+    padding: 15px;
+    margin: 15px 0;
+    border-radius: 8px;
+}
+
+/* Highlight class */
+.highlight {
+    font-size: 2em;
+    color: #ff6600;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
